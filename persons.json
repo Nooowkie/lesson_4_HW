@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Harry Potter",
+    "age": 17,
+    "house": "Gryffindor",
+    "person_photo": "https://upload.wikimedia.org/wikipedia/en/d/d7/Harry_Potter_character_poster.jpg"
+  },
+  {
+    "name": "Tony Stark",
+    "age": 48,
+    "house": "Stark Tower",
+    "person_photo": "https://avatars.mds.yandex.net/i?id=991a33f2506eee24da95fa8bf11cb38083442c2d-4055578-images-thumbs&n=13"
+  },
+  {
+    "name": "Geralt of Rivia",
+    "age": 100,
+    "house": "Kaer Morhen",
+    "person_photo": "https://avatars.mds.yandex.net/i?id=2ec600d1ac0f04ec4d79e794c11ddce1a89ca21e-5597410-images-thumbs&n=13"
+  }
+]
